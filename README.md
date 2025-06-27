@@ -80,8 +80,5 @@ To begin with our Project, we'll need to install some npm packages like express,
 
 
 <!-- CONTACT -->
-# Contact
-
-Your Name - Shivank Kapur - shivankkapur2004@gmail.com
 
 Project Link: 
