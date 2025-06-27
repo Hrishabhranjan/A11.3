@@ -58,7 +58,6 @@ app.post("/login", async function(req, res) {
         res.send("Login error occurred.");
     }
 });
-req.session.user = foundUser._id;
 
 
 app.get("/secrets", function(req, res){
